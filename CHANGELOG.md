@@ -1,3 +1,13 @@
+# [1.2.0](https://github.com/d3p1/r3f-computer-webcam-effect/compare/v1.1.0...v1.2.0) (2025-08-23)
+
+
+### Features
+
+* add float and mouse effects to laptop [[#1](https://github.com/d3p1/r3f-computer-webcam-effect/issues/1)] ([f6c4126](https://github.com/d3p1/r3f-computer-webcam-effect/commit/f6c4126bd1c28286f0f80155335df4a03d4ea58b))
+* add laptop model [[#1](https://github.com/d3p1/r3f-computer-webcam-effect/issues/1)] ([6ccdc35](https://github.com/d3p1/r3f-computer-webcam-effect/commit/6ccdc3520d0a80dad177e85f9e9ea8a3560ef620))
+* add leva dependency [[#1](https://github.com/d3p1/r3f-computer-webcam-effect/issues/1)] ([21a94f6](https://github.com/d3p1/r3f-computer-webcam-effect/commit/21a94f63c32cc4198db21f4b58c1778e84ea8e76))
+* init iframe [[#1](https://github.com/d3p1/r3f-computer-webcam-effect/issues/1)] ([434afc7](https://github.com/d3p1/r3f-computer-webcam-effect/commit/434afc7bec37267fcb193bfd5311259dae607f63))
+
 # [1.1.0](https://github.com/d3p1/r3f-computer-webcam-effect/compare/v1.0.0...v1.1.0) (2025-08-21)
 
 
