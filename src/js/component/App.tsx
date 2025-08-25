@@ -20,7 +20,7 @@ export const App = () => {
           polar={[-Math.PI / 16, Math.PI / 16]}
           azimuth={[-Math.PI / 16, Math.PI / 16]}
         >
-          <Float>
+          <Float rotationIntensity={0.08}>
             <Laptop position={[0, -1, 0]} />
           </Float>
         </PresentationControls>
